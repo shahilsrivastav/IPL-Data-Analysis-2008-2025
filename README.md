@@ -20,7 +20,7 @@
 
 ## 📸 Dashboard Preview
 
-![IPL Dashboard](powerbi/dashboard_screenshot.png)
+![IPL Dashboard](powerbi/dashboard.png)
 
 ---
 
